@@ -1,0 +1,3 @@
+﻿  Inherit_2.cpp
+C:\Users\kiril\source\repos\Inherit_2\Inherit_2\Inherit_2.cpp(153,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Inherit_2.vcxproj -> C:\Users\kiril\source\repos\Inherit_2\x64\Debug\Inherit_2.exe
